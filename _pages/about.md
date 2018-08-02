@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Qaiser Mazhar's personal blog"
+header:
+  image: "image-alignment-1200x4002.jpg"
 layout: splash
 excerpt: "About me"
 author_profile: true
