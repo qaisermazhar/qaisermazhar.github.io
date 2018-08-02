@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Qaiser Mazhar / Agile Mindsets"
+locale                   : "en-GB"
+title                    : "Agile Mindsets"
 title_separator          : "-"
 name                     : &name "Qaiser Mazhar"
 description              : &description "personal description"
