@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Qaiser Mazhar's personal blog"
+title: "Agile Mindsets: Qaiser Mazhar's personal blog"
 header:
-  image: "image-alignment-1200x4002.jpg"
+  image: "banner.jpg"
 layout: splash
 excerpt: "About me"
 author_profile: true
