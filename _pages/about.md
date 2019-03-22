@@ -13,7 +13,7 @@ redirect_from:
 
 A little about me
 ======
-...
+test
 
 Getting started
 ======
